@@ -64,4 +64,5 @@
 .btn-5:hover {
   background: rgba(32, 32, 32, 0.815);
   color: rgb(255, 255, 255);
+  border: 1mm, white;
 }
