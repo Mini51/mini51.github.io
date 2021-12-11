@@ -110,3 +110,9 @@ a:hover {
 a:active {
   text-decoration: underline;
 }
+
+/* Making Bootstrap cards betters*/ 
+.card-extras{
+  width: 18rem; 
+  background-color: #000;
+}
