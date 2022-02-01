@@ -4,7 +4,7 @@
 }
 
 .bg-image {
-  background-image: url('./images/JavaScript-code.jpg');
+  background-image: url('./MAINPAGE/images/JavaScript-code.jpg');
   filter: blur(1px);
   filter: brightness(.7);
   background-size: cover;
